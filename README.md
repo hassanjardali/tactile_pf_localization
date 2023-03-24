@@ -25,5 +25,6 @@ https://user-images.githubusercontent.com/58668234/227643938-4d118e9f-7f98-4afe-
 
 
 
-Note:  I stoped working on this project when I graduated, and now I'm focusing on my graduate studies. 
+
+Note:  I stopped working on this project when I graduated, and now I'm focusing on my graduate studies. 
 
