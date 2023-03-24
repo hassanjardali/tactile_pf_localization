@@ -18,7 +18,11 @@ The paper is included in this repo. I'll upload the codes when they're ready.
 
 You can check the research project also here: 
 
-<iframe width="1280" height="725" src="https://www.youtube.com/embed/Zvqrw8ETTa0?list=PLfZnyj5uEv-mrzydSQOvdOe1-zUp_88jD" title="Particle Filter Localization Using Tactile Sensors For Robotic Applications Presentation videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://user-images.githubusercontent.com/58668234/227643938-4d118e9f-7f98-4afe-a480-39fdfc9ea950.mp4
+
+
 
 
 Note:  I stoped working on this project when I graduated, and now I'm focusing on my graduate studies. 
