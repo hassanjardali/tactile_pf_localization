@@ -16,5 +16,7 @@ The experimental results indicate that the proposed force/torque sensor-based lo
 
 The paper is included in this repo. I'll upload the codes when they're ready. 
 
+You can check the research project also here: https://youtu.be/Zvqrw8ETTa0?list=PLfZnyj5uEv-mrzydSQOvdOe1-zUp_88jD
+
 Note:  I stoped working on this project when I graduated, and now I'm focusing on my graduate studies. 
 
